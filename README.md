@@ -35,7 +35,7 @@ Variabel merepresentasikan 6 mata kuliah yang wajib dijadwalkan:
 - **MK6:** Jaringan Komputer *(Dr. Citra | Smt 5 | Wajib Lab-B)*
 
 ### 2. Himpunan Domain ($D$)
-Pasangan nilai $(\text{Slot\_Waktu}, \text{Ruangan})$:
+Pasangan nilai $(\text{Slot Waktu}, \text{Ruangan})$:
 - Slot Waktu: `['Sen-08:00', 'Sen-10:00', 'Sel-08:00', 'Sel-10:00']` (4 slot)
 - Ruangan: `['Lab-A', 'Lab-B']` (2 laboratorium)
 - Total Kombinasi Dasar: $4 \times 2 = 8$ nilai per variabel (disaring oleh *unary constraints* kebutuhan fasilitas dan kesiapan hari dosen).

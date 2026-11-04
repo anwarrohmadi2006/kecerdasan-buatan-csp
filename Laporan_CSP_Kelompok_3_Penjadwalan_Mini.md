@@ -34,7 +34,7 @@ $$X = \{MK_1, MK_2, MK_3, MK_4, MK_5, MK_6\}$$
 
 ### 1.2 Himpunan Domain ($D$)
 Setiap variabel mengambil nilai berupa pasangan tuple:
-$$v = (\text{Slot\_Waktu}, \text{Ruangan})$$
+$$v = (\text{Slot Waktu}, \text{Ruangan})$$
 
 - **Slot Waktu ($T$):** $\{\text{Sen-08:00}, \text{Sen-10:00}, \text{Sel-08:00}, \text{Sel-10:00}\}$
 - **Ruangan ($R$):** $\{\text{Lab-A}, \text{Lab-B}\}$
